@@ -34,17 +34,6 @@ interests = [
 ]
 ```
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioNicolas&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioNicolas&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-n%C3%ADcolas-arruda-bertino-a5ba82406/)
