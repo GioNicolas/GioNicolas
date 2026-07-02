@@ -1,16 +1,54 @@
-## Hi there 👋
+### Hi, I'm Giorgio Nícolas de Arruda Bertino 👋
 
-<!--
-**GioNicolas/GioNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & AI student at **UFPB** (Universidade Federal da Paraíba)
+🌱 Currently deepening my skills in Python, machine learning, and web development
+🔭 Building projects that combine data analysis with practical web applications
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/giorgio-n%C3%ADcolas-arruda-bertino-a5ba82406/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+```python
+languages = [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Next.js"
+]
+
+interests = [
+    "Data Science",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Web Development"
+]
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GioNicolas&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioNicolas&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-n%C3%ADcolas-arruda-bertino-a5ba82406/)
+
+---
+
+<p align="center"><i>Always learning, always building.</i></p>
