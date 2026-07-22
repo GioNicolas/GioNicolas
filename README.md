@@ -18,12 +18,14 @@
 </p>
 
 ```python
-languages = [
+skills = [
     "Python",
     "HTML",
     "CSS",
     "JavaScript",
-    "Next.js"
+    "Next.js",
+    "Node.js",
+    "TypeScript"
 ]
 
 interests = [
