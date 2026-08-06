@@ -4,7 +4,7 @@
 🌱 Currently deepening my skills in Python, machine learning, and web development
 🔭 Building projects that combine data analysis with practical web applications
  
-See me at giorgionicolas.com
+See me at https://www.giorgionicolas.com/
 
 ---
 
