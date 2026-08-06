@@ -3,7 +3,8 @@
 🎓 Data Science & AI student at **UFPB** (Universidade Federal da Paraíba)
 🌱 Currently deepening my skills in Python, machine learning, and web development
 🔭 Building projects that combine data analysis with practical web applications
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/giorgio-n%C3%ADcolas-arruda-bertino-a5ba82406/)
+ 
+See me at giorgionicolas.com
 
 ---
 
