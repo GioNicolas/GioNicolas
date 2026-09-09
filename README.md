@@ -1,8 +1,7 @@
 ### Hi, I'm Giorgio Nícolas de Arruda Bertino 👋
 
-🎓 Data Science & AI student at **UFPB** (Universidade Federal da Paraíba)
-🌱 Currently deepening my skills in Python, machine learning, and web development
-🔭 Building projects that combine data analysis with practical web applications
+I'm a **Software Engineer** and **Data Science & AI student at UFPB** (Universidade Federal da Paraíba), I design and build end-to-end digital solutions — from sleek, responsive modern websites and web platforms to
+high-performance desktop apps, robust APIs, and intelligent AI integrations.
  
 See me at https://www.giorgionicolas.com/
 
